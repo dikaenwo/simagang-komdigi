@@ -86,7 +86,7 @@ define("DEFAULT_EMAIL_ACCOUNT_NAME", "");
 // Database Configuration Settings
 define("DB_HOST", "localhost");
 define("DB_USERNAME", "root");
-define("DB_PASSWORD", "");
+define("DB_PASSWORD", "gemastik");
 define("DB_NAME", "simama");
 define("DB_TYPE", "mysql");
 define("DB_PORT", "");
