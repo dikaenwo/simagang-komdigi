@@ -1,6 +1,6 @@
 <?php 
 
-define("BASE_URL", "http://localhost/simama/");
+define("BASE_URL", "https://72.60.78.40/");
 
 /**
  * Absen_masuk Page Controller

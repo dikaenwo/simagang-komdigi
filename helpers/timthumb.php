@@ -135,6 +135,7 @@ if(! isset($ALLOWED_SITES)){
 		'tinypic.com',
 		'localhost',
 		'http://localhost',
+		'https://72.60.78.40/',
 	);
 }
 // -------------------------------------------------------------
